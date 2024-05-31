@@ -1,7 +1,7 @@
-// eslint-disable-next-line no-unused-vars
+
 import React from "react";
 
-// Header component
+// Header Component
 export default function Header() {
   return (
     <header className="header">
